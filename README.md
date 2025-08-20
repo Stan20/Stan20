@@ -1,75 +1,8 @@
 # Hello, I'm Stanley Chanda Mubanga 👋
 
-### Web Developer | UI/UX Designer | Tech Enthusiast
+### Web/App Developer | UI/UX Designer | Tech Enthusiast
 
 Welcome to my GitHub profile! I'm a passionate and dedicated Frontend Developer with over 3 years of experience in crafting engaging, user-centric web experiences. My journey in web development is driven by my love for creating beautiful, functional, and responsive websites that provide seamless user experiences.
-
----
-
-## 👨‍💻 About Me
-
-I'm based in Lusaka, Zambia, and I specialize in frontend development using modern web technologies. My expertise lies in:
-
-- **Next.js & React.js**: Developing dynamic, interactive, and scalable user interfaces with efficient state management using React Context.
-- **Flutter**: Building cross-platform mobile applications with a focus on high performance and beautiful UI.
-- **UI/UX Design**: Designing intuitive and aesthetically pleasing user interfaces with a focus on usability and user satisfaction.
-- **HTML, CSS, JavaScript**: Crafting clean, efficient, and responsive code to build the backbone of web pages.
-- **Backend Proficiency**: Managing data with **PHP**, **PostgreSQL**, and **MySQL**, and integrating APIs for seamless communication between services.
-- **API Management & Integration**: Expertise in handling and integrating APIs to ensure smooth data flow and functionality across platforms.
-
-I also have a strong foundation in **Scratch programming**, making programming accessible and fun for beginners. My passion for web design extends to creating visually appealing and functional designs that enhance user engagement.
-
----
-
-## 🌍 Location
-
-- **Lusaka, Zambia**
-
----
-
-## 📞 Contact Information
-
-- **Email**: [estabannabum@gmail.com](mailto:estabannabum@gmail.com)
-- **Phone**: +260 978 215094
-
-Feel free to reach out to me if you have any inquiries, project ideas, or if you just want to connect!
-
----
-
-## 💼 My Skills
-
-Here are some of the technologies and tools I work with:
-
-- **Frontend Development**: Next.js, React.js, React Context, HTML, CSS, JavaScript, Tailwind CSS, Sass, DOM Manipulation
-- **Mobile Development**: Flutter, Dart
-- **Web Design**: UI/UX Design, Responsive Web Design, Website Design
-
-- **Backend Development**: 
-  - **PHP**: Server-side scripting for building dynamic web applications.
-  - **PostgreSQL & MySQL**: Database management and manipulation.
-  - **Slim PHP**: Lightweight framework for PHP, ideal for creating RESTful APIs.
-
-- **API Management & Integration**: Expertise in handling and integrating APIs to ensure smooth data flow and functionality across platforms.
-
-- **Version Control**: Git and GitHub for tracking changes and collaborating on projects.
-
-- **Other Skills**: Scratch Programming, DOM Manipulation, Microsoft Access DB.
-
----
-
-## 🛠️ My Services
-
-I offer a wide range of services aimed at bringing your digital ideas to life. My services include:
-
-- **Consultancy**: Providing expert advice and strategies for your web and mobile projects.
-- **Web Development**: Building modern, responsive, and efficient websites and web applications.
-- **Mobile App Development**: Creating high-performance mobile applications with Flutter.
-- **API Integration**: Ensuring smooth and reliable API integration and management.
-- **Web Design**: Crafting visually appealing and user-friendly web designs.
-- **Logo Design**: Creating unique and memorable logos that represent your brand.
-- **UI/UX Design**: Enhancing user experience with intuitive and aesthetically pleasing interfaces.
-- **Freelancing**: Available for freelance projects and collaborations.
-
 ---
 
 ## 🌐 Portfolio
