@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Stanley Chanda Mubanga</h1>
 
 <p align="center">
-  🚀 <b>Full-Stack Developer | Technical Team Lead | Educator</b><br/>
+  🚀 <b>Full-Stack Developer | Digital Literacy Educator</b><br/>
   Lusaka, Zambia 🇿🇲
 </p>
 
@@ -13,7 +13,6 @@
 I’m a passionate **Full-Stack Developer** with over 3 years of professional experience designing and building high-quality web and mobile applications.  
 I enjoy solving complex problems through clean architecture, reusable components, and scalable systems.  
 
-💼 Currently serving as **Technical Team Lead at Oceangate Synergies Limited**  
 💡 Executive Director at **New Age Developers (NAD)** — empowering the next generation through digital literacy and coding.  
 🌍 Building modern applications that make technology more accessible across Africa.  
 
