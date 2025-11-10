@@ -1,14 +1,14 @@
 # 👋 Hello, I'm Stanley Chanda Mubanga  
 
-### 💻 Full-Stack Developer | Technical Team Lead | UI/UX Designer | Tech Enthusiast  
+### 💻 Full-Stack Developer | UI/UX Designer | Tech Enthusiast  
 
-Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Technical Team Lead** with over **3 years of hands-on experience** designing and developing dynamic, scalable web and mobile applications.  
-I specialize in building **end-to-end solutions** using **Next.js**, **React**, **Flutter**, and **PostgreSQL**, driven by a passion for creating seamless user experiences and efficient backend systems.
+Welcome to my GitHub profile! I'm a **Full-Stack Developer** with over **3 years of experience** designing and building dynamic, scalable, and user-focused web and mobile applications.  
+I specialize in **Next.js**, **React**, **Flutter**, and **PostgreSQL**, and I’m passionate about crafting smooth user experiences backed by robust backend logic.
 
 ---
 
 ## 🌐 Portfolio  
-🎨 Explore my work, projects, and case studies on my [**Portfolio Website**](https://stanley-mubanga.vercel.app/).
+🎨 Explore my projects and case studies on my [**Portfolio Website**](https://stanley-mubanga.vercel.app/)
 
 ---
 
@@ -57,9 +57,9 @@ I specialize in building **end-to-end solutions** using **Next.js**, **React**, 
 
 <div align="center">
 
-![Stanley's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stan20&show_icons=true&theme=radical&hide_border=true&border_radius=8)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stan20&layout=compact&theme=radical&hide_border=true&border_radius=8)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Stan20&theme=radical&hide_border=true&border_radius=8)
+![Stanley's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stan20&show_icons=true&count_private=true&theme=radical&hide_border=true&border_radius=8)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stan20&layout=compact&count_private=true&theme=radical&hide_border=true&border_radius=8)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Stan20&theme=radical&hide_border=true&count_private=true&border_radius=8)
 
 </div>
 
